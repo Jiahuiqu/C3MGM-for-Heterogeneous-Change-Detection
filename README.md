@@ -1,5 +1,5 @@
 # C3MGM-for-Heterogeneous-Change-Detection
-Cyclic Consistency Constrained Multi-View Graph Matching Network for Unsupervised Heterogeneous Change Detection
+Cyclic Consistency Constrained Multi-View Graph Matching Network for Unsupervised Heterogeneous Change Detection (IEEE Transactions on Geoscience and Remote Sensing 2025)
 
 # Cite
 ```
